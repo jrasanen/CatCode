@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 Gem::Specification.new do |s|
   s.name        = 'catcode'
   s.version     = '0.0.2'

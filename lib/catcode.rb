@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 class CatCode
   def initialize(list_of_words=nil)
     if list_of_words.nil?
