@@ -1,4 +1,5 @@
 # encoding: UTF-8
+require "catcode/version"
 
 class CatCode
   def initialize(list_of_words=nil)
