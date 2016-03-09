@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in cc.gemspec
+# Specify your gem's dependencies in CatCode.gemspec
 gemspec
